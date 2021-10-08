@@ -1,0 +1,29 @@
+.loginID {
+    font-weight: bolder;
+}
+
+body {
+    background-image: url(dbeast.jpg);
+}
+
+p {
+    font-size: 35px;
+  color: rgb(240, 44, 44);
+}
+form {
+    font-size: 20px;
+    color: rgb(235, 60, 60);
+}
+
+h1 {
+    font-size: 45px;
+    color: rgb(241, 47, 47);
+}
+input {
+    font-size: 25px;
+    color: blue;
+    width: 142px;
+    height: 71px;
+    border-radius: 36.5px;
+    text-align: center;
+}
